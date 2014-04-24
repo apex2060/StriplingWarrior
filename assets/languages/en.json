@@ -1,0 +1,12 @@
+{
+	"SITE":{
+		"TITLE":"Stripling Warror",
+		"NAV":{
+			"HOME":"Home",
+			"ADMIN": "Admin Dashboard"
+		},
+		"LOGIN":"Login",
+		"SIGNUP":"Signup",
+		"COPYRIGHT":"2014 Creative Design"
+	}
+}
